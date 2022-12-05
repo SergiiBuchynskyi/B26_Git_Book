@@ -1,0 +1,8 @@
+
+
+so far we have learned
+
+commit  --> push
+
+remote/local
+pull/update
